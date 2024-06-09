@@ -4,7 +4,7 @@ na
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
+CID_069_Athena_Commando_F_PinkBear, 1200
 Pickaxe_ID_224_Butterfly, 500
 EID_KEagle, 500
 EID_Everytime, 700
